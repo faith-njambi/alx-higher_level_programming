@@ -1,5 +1,6 @@
-"""
-def print_square(size):
+
+============================
+How to Use 4-print_square.py
 ============================
 
 This module defines a square-printing function ``print_square(size)``.
@@ -90,4 +91,3 @@ At least one argument must be provided.
     >>> print_square()
     Traceback (most recent call last):
     TypeError: print_square() missing 1 required positional argument: 'size'
-"""
